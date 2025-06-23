@@ -73,7 +73,10 @@ You can tweak the following:
 
 ## 📸 Screenshots
 
-> *Add relevant screenshots here if available*
+> ![image](https://github.com/user-attachments/assets/25ef47f8-d6a6-477c-851f-2e1a4d0c6c20)
+> ![image](https://github.com/user-attachments/assets/933561f6-57f9-4ad4-bb62-5435c1687b0f)
+
+
 
 ---
 
@@ -98,6 +101,11 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ---
 
+## 🔗 Live Link 
+
+🚀 **Try the Game Live:** 👉 [kundan0008000.github.io/Sudoku-Game](https://kundan0008000.github.io/Sudoku-Game/)
+
+---
 > Created with 💙 by [Kundan Kumar ](https://github.com/kundan0008000)
 
 ```
